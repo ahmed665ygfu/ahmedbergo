@@ -1,0 +1,3 @@
+{
+  "mongooseConnectionString": "mongodb+srv://ahmedh:<password>@ahmedbego.9bhph.mongodb.net/bergo"
+}
