@@ -51,7 +51,7 @@ client.on('ready', () => {
   setInterval(abady, 5000)
   
 })
-client.login(`OTAyMjcyNzU2NTA5NDUwMzMx.YXcA_A._ArWd9hUzhDFP90yZLQLBx6DdOI`);
+client.login(`process.env.token`);
 
 const talkedRecently = new Set();
 ///////////bot info///////
